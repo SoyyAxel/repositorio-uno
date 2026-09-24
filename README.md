@@ -1,2 +1,62 @@
+[pagina-2.html](https://github.com/user-attachments/files/32587560/pagina-2.html)
 # repositorio-uno
-repositorio clase 
+re<pagina-2.html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <!-- La cabecera (head): información que no se muestra en la página -->
+     >title>Página 1: mi primera página</title>
+</head>
+<body>
+    <!-- El cuerpo (body):todo lo que se ve en pantalla va aquí -->
+    <h1>Este es un H1: el encabezado más importante de la página</h1>
+    <p>Este es un párrafo (etiqueta p): aquí va el texto corrido de la página.</p>
+    <h2>Este es un H2: un encabezado de segundo nivel, depende del H1</h2>
+    <p>Esta es una lista no ordenada (etiqueta ul):</p>
+    <ul>
+        <li>Este es un elemento de lista (li).</li>
+        <li>Cada punto de la lista vive dentro de su propia etiqueta (li).</li>
+        <li>El navegador le pone la viñeta, nosotoros no la escribimos</li>
+    </ul>
+<p> Esta es una lista ordenada (etiqueta ol):el orden si importa</p>
+<ol>
+    <li>Primer paso.</li>
+    <li>Segundo paso.</li>
+    <li>Tercer paso.</li>
+</ol>
+<p>
+    Este es un enlace (etiqueta a): 
+    <a href="pagina-2.html">este enlace lleva a la página 2</a>
+</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <!-- La cabecera (head): información que no se muestra en la página -->
+     >title>Página 1: mi primera página</title>
+</head>
+<body>
+    <!-- El cuerpo (body):todo lo que se ve en pantalla va aquí -->
+    <h1>Este es un H1: el encabezado más importante de la página</h1>
+    <p>Este es un párrafo (etiqueta p): aquí va el texto corrido de la página.</p>
+    <h2>Este es un H2: un encabezado de segundo nivel, depende del H1</h2>
+    <p>Esta es una lista no ordenada (etiqueta ul):</p>
+    <ul>
+        <li>Este es un elemento de lista (li).</li>
+        <li>Cada punto de la lista vive dentro de su propia etiqueta (li).</li>
+        <li>El navegador le pone la viñeta, nosotoros no la escribimos</li>
+    </ul>
+<p> Esta es una lista ordenada (etiqueta ol):el orden si importa</p>
+<ol>
+    <li>Primer paso.</li>
+    <li>Segundo paso.</li>
+    <li>Tercer paso.</li>
+</ol>
+<p>
+    Este es un enlace (etiqueta a): 
+    <a href="pagina-2.html">este enlace lleva a la página 2</a>
+</p>
+</body>
+</html>positorio clase 
